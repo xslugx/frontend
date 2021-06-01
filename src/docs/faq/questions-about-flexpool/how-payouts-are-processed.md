@@ -1,6 +1,6 @@
 ---
 
-title: What is unpaid balance? How payouts are processed?
+title: What is my unpaid balance? How are payouts processed?
 
 ---
 
